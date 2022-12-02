@@ -4,14 +4,14 @@
 
 #### Table of content
 
-###### Titanic - exploration and catboost model.ipynb
+## 1. Titanic - exploration and catboost model.ipynb
   jupyter notebook file showing:
   - data exploration
   - data cleaning
   - data wrangling
   - catboost model
 
-###### ###### Titanic - classification models.ipynb
+## 2. Titanic - classification models.ipynb
   jupyter notebook file showing:
   - Decision Tree Classifier
   - Logistic Regression
@@ -21,3 +21,13 @@
   - K-Neighbors Classifier
   - Gradient Boosting Classifier
   - CatBoost
+
+## data_explorer.py
+  Script containing various tools used for data exploration
+  Mostly written using Object Oriented Programming
+  
+## train.csv
+  original labelled data set from Kaggle - used to train and evaluate models
+  
+## test.csv
+  original unlabelled data set from Kaggle - used to make and submit predictions
