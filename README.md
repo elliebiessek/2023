@@ -24,7 +24,7 @@
 
 ## data_explorer.py
   Script containing various tools used for data exploration
-  Mostly written using Object Oriented Programming
+  (mainly written using Object Oriented Programming)
   
 ## train.csv
   original labelled data set from Kaggle - used to train and evaluate models
